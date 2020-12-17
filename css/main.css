@@ -1,0 +1,36 @@
+body,html{height:100%;font-family:'baloo tamma 2',cursive}
+body{
+    background:url(images/bg2.jpeg)
+     no-repeat center fixed;background-size:auto;-webkit-background-size:cover;
+    -moz-background-size:cover;-o-background-size:cover;-ms-background-size:cover;background-size:cover;
+    background-color:#000;position:relative}
+    .content-wrap{transition:all .3s .5s}a{color:#9700c1}
+    a:hover{color:#f0f}
+    p{font-size:.9em;color:#fff;line-height:1.9em;letter-spacing:1px;margin-bottom:0}
+    #pills-tabContent{color:#fff;text-align:center;height:auto;overflow:hidden;padding:10px 1px 0;width:100%}
+    .nav-section{margin:50px auto 0!important}main{margin:0 auto!important}
+    .dynamic-tabs img{border-radius:50%;width:224px;height:222px;position:relative;right:46px;bottom:92px}
+    .dynamic-tabs h1{color:#fff;font-size:1em;text-transform:uppercase;letter-spacing:2px;text-shadow:2px 5px 3px rgba(0,0,0,.06);
+        margin:1.5em 0 3em}
+        .dynamic-tabs h6{color:#fff;font-size:1em;text-transform:uppercase;letter-spacing:2px;
+            text-shadow:2px 5px 3px rgba(0,0,0,.06);margin:1.5em 0 .1em;text-align:left}
+            .dynamic-tabs .progress:last-child{margin-bottom:0}
+            .nav-pills .nav-link.active,.nav-pills .show>.nav-link{background-color:rgba(151,0,193,.5)}
+            .btn-primary{background-color:#690086;border-color:#690086;padding-right:35px;padding-left:35px}
+            .btn-primary:hover{border-color:rgba(105,0,134,.2);background-color:rgba(105,0,134,.5)}
+            .form-control{background-color:#050413;border:1px solid rgba(105,0,134,.5);color:#fff}
+            .form-control:focus{color:#fff;background-color:#050413;border-color:#690086;outline:0;
+                box-shadow:0 0 0 .2rem rgba(105,0,134,.25)}
+                .nav-pills .nav-link{background-color:rgba(255,2555,255,.1);margin:0 10px 10px}
+                .progress{margin-bottom:20px}.progress-bar{background-color:#4d0169}
+                .dynamic-tabs h6:first-of-type{margin:0 0 .1em}
+                .resp-content{margin:0 auto!important}
+                .template-title{text-align:center;color:#fff;text-transform:uppercase;font-weight:700;margin-top:50px}
+                .template-title::before{color:#c800ff;position:absolute;left:-2px;z-index:-1;content:"UNRAVEL";width:100%;top:47px}
+                .template-title::after{color:#0ff;content:"UNRAVEL";position:absolute;right:-2px;z-index:-1;content:"UNRAVEL";
+                    width:100%;top:52px}.content-wrap{margin-bottom:45px}
+                    .contact-form textarea{min-height:10em}footer{text-align:center}
+                    .profile-pic{border-radius:50%;width:130px;border:0;box-shadow:inset 0 0 20px rgba(255,255,255,.7),inset 20px 0 50px rgba(255,0,255,.7),inset -20px 0 50px rgba(0,255,255,.7),inset 20px 0 200px rgba(255,0,255,.7),inset -20px 0 200px rgba(0,255,255,.7),0 0 50px rgba(255,255,255,.7),-10px 0 50px rgba(255,0,255,.7),10px 0 50px rgba(0,255,255,.7);overflow:hidden;margin:0 auto;height:130px}
+                    #pills-home{padding:30px 1px 0}
+.contact-title{text-align:center;font-weight:700;margin-bottom:20px;color:#fff;font-size:1.3em;
+    text-transform:uppercase;letter-spacing:2px;text-shadow:2px 5px 3px rgba(0,0,0,.06)}
